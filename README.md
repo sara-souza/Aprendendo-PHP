@@ -1,1 +1,1 @@
-# Aprendendo-PHP
+# Aprendizado em PHP.
